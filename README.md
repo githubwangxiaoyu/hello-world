@@ -1,2 +1,4 @@
 # hello-world
-learn how to use GitHub
+
+Hi Humans!
+this is my first time to use github.
